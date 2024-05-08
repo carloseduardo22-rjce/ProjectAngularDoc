@@ -1,5 +1,5 @@
 # Projeto da Documentação do Angular
-> Comecei meus estudos recentemente em Angular e para aprender os conceitos não há nada melhor que por a mão na massa não é mesmo?
+> Comecei meus estudos recentemente em Angular e para aprender os conceitos não há nada melhor que por a mão na massa não é mesmo? E a própria DOC já traz um projeto muito rico para você ir aprendendo os conceitos que é este que realizei utilizando o [StackBlitz](https://stackblitz.com/).
 # Tá, mas o que seria Angular?
 > Angular é uma plataforma de desenvolvimento, construída em TypeScript.
 > Como plataforma, Angular inclui: uma estrutura baseada em componentes para construir aplicações web escaláveis, uma coleção de bibliotecas bem integradas que cobrem uma ampla variedade de recursos, incluindo roteamento, gerenciamento de formulários, comunicação cliente-servidor e muito mais um conjunto de ferramentas de desenvolvedor para ajudá-lo a desenvolver, construir, testar e atualizar seu código. Enfim, muito top não é mesmo? Agora vamos para um breve explicação do que seria estes componentes, componentes estes que são os pilares do Angular.
